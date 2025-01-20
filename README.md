@@ -13,5 +13,6 @@ Here it is a list with intitutions including in some way raylib on their courses
 | [EpiTech](https://www.epitech.eu/)        | Paris | - | - | - | - | Bomberman project? |
 | [UCA](https://www.uca.ac.uk)        | United Kingdom | BSc Games Development, MSc Games Engineering | Advanced Games Programming, Game Engine Programming and Development | [Assad Bokhari](mailto:assad.bokhari@uca.ac.uk) | - | - |
 | [MCAST IICT](https://iict.mcast.edu.mt/)  | Malta | BSc (Hons) Digital Games Development | - | - | - | - |
+| [UFRGS](http://www.ufrgs.br/ufrgs/inicial) | Brazil | BSc Computer Science | Algorithms and Programming, Data Structures I | - | - | Used on the last assignment of each subject, "Make a game in C" |
 
 Please, feel free to send a PR if you know some institution or you are an institution and you want to be on the list! Thanks! :)
