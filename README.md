@@ -14,5 +14,6 @@ Here it is a list with intitutions including in some way raylib on their courses
 | [UCA](https://www.uca.ac.uk)        | United Kingdom | BSc Games Development, MSc Games Engineering | Advanced Games Programming, Game Engine Programming and Development | [Assad Bokhari](mailto:assad.bokhari@uca.ac.uk) | - | - |
 | [MCAST IICT](https://iict.mcast.edu.mt/)  | Malta | BSc (Hons) Digital Games Development | - | - | - | - |
 | [UFRGS](http://www.ufrgs.br/ufrgs/inicial) | Brazil | BSc Computer Science | Algorithms and Programming, Data Structures I | - | - | Used on the last assignment of each subject, "Make a game in C" |
+| [IFSP CJO](https://www.ifspcjo.edu.br/) | Campos do Jordão / Brazil | Technology in Systems Analysis and Development | Object-Oriented Programming | [Paulo Giovani](mailto:paulogiovani@ifsp.edu.br) | - | Used in the first major project of the course, where students develop a complete game applying Object-Oriented Programming concepts. |
 
 Please, feel free to send a PR if you know some institution or you are an institution and you want to be on the list! Thanks! :)
